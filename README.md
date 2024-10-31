@@ -57,7 +57,7 @@ Hey there! I'm **Tharindu Chamuditha**, a passionate Software Engineering studen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CrazeSliit&show_icons=true&theme=radical&hide_border=true&card_width=495" alt="GitHub Stats" height="200" style="max-width: 100%;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZERO-DAWN-X&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazeSliit&theme=radical&hide_border=true&card_width=495" alt="GitHub Streak" height="200" style="max-width: 100%;" />
 </p>
 
 ---
