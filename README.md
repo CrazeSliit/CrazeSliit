@@ -88,7 +88,7 @@ Hey there! I'm **Praveen Kavindu**, a passionate Software Engineering student at
 I'm open to collaborations, tech discussions, or just a friendly chat about code. Reach out anytime!
 
 <p align="center">
-  <a href="https://github.com/ZERO-DAWN-X" target="_blank">
+  <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://linkedin.com/in/yourprofile" target="_blank">
@@ -106,10 +106,10 @@ I'm open to collaborations, tech discussions, or just a friendly chat about code
 If you like this project and want to support it:
 
 <p align="center">
-  <a href="https://github.com/ZERO-DAWN-X" target="_blank">
+  <a href="https://github.com/CrazeSliit" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://patreon.com/PraveenKavindu" target="_blank">
+  <a href="https://patreon.com/TharinduChamuditha" target="_blank">
     <img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
