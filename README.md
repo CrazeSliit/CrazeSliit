@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-Hey there! I'm **Praveen Kavindu**, a passionate Software Engineering student at Plymouth University, bringing ideas to life through code! Driven by curiosity, I push tech's boundaries, from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe design enhances user experiences. Let's build something great together! 🚀
+Hey there! I'm **Tharindu Chamuditha**, a passionate Software Engineering student at Plymouth University, bringing ideas to life through code! Driven by curiosity, I push tech's boundaries, from sleek web apps to immersive mobile and game experiences. As a UI/UX enthusiast, I believe design enhances user experiences. Let's build something great together! 🚀
 
 <details>
   <summary><b>More About Me</b></summary>
