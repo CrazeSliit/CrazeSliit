@@ -14,13 +14,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🖥️+Full-Stack+Developer+%7C+🎮+Game+Creator;📱+Mobile+Engineer+%7C+🤖+AI+Enthusiast;🎨+UI%2FUX+Designer+%7C+☁️+Cloud+Architect;💡+Problem+Solver+%7C+🌟+Innovation+Catalyst" alt="Professional Titles"/>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CrazeSliit&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/CrazeSliit?style=for-the-badge&color=blue&label=FOLLOWERS" alt="Followers"/>
-  <img src="https://img.shields.io/badge/EXPERIENCE-3%2B%20YEARS-brightgreen?style=for-the-badge" alt="Experience"/>
-  <img src="https://img.shields.io/badge/PROJECTS-50%2B-orange?style=for-the-badge" alt="Projects"/>
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE%20FOR%20HIRE-success?style=for-the-badge&logo=handshake" alt="Hiring Status"/>
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
