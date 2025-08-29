@@ -1,19 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=200&section=header&text=Welcome%20to%20My%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Where%20Code%20Meets%20Creativity&descAlignY=55&descSize=18" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ZERO-DAWN-X/ZERO-DAWN-X/main/assets/banner.gif" alt="Banner" width="90%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,25:C850C0,50:FFCC70,75:4158D0,100:C850C0&height=200&section=header&text=Full%20Stack%20Web%20Developer&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Building%20Digital%20Experiences%20with%20Code&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=F75C7E&center=true&vCenter=true&width=600&height=70&lines=👋+Hello%2C+I'm+Tharindu;🚀+Code+Architect;🎨+Digital+Creator;🌟+Innovation+Driver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=500&color=4158D0&center=true&vCenter=true&width=600&height=70&lines=👋+Hello%2C+I'm+Tharindu;🌐+Full+Stack+Developer;💻+Web+Application+Architect;⚡+Modern+Tech+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🖥️+Full-Stack+Developer+%7C+🎮+Game+Creator;📱+Mobile+Engineer+%7C+🤖+AI+Enthusiast;🎨+UI%2FUX+Designer+%7C+☁️+Cloud+Architect;💡+Problem+Solver+%7C+🌟+Innovation+Catalyst" alt="Professional Titles"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=C850C0&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🎨+Frontend+Specialist+%7C+⚙️+Backend+Engineer;📱+Responsive+Design+%7C+☁️+Cloud+Architecture;🗄️+Database+Expert+%7C+🚀+Performance+Optimizer;🔧+DevOps+Enthusiast+%7C+🌟+Problem+Solver" alt="Skills"/>
 </div>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -25,414 +20,243 @@
 
 ### 🚀 **The Developer**
 ```typescript
-interface Developer {
+interface FullStackDeveloper {
   name: "Tharindu Chamuditha";
-  role: "Full-Stack Engineer";
+  role: "Full Stack Web Developer";
   university: "SLIIT";
   location: "Sri Lanka 🇱🇰";
   
-  currentFocus: [
-    "Building scalable applications",
-    "Exploring AI/ML frontiers",
-    "Creating immersive experiences",
-    "Open source contributions"
+  specializations: [
+    "Frontend Development",
+    "Backend Engineering", 
+    "Database Architecture",
+    "Cloud Deployment",
+    "API Development",
+    "Performance Optimization"
   ];
   
-  lifePhilosophy: "Code with purpose, design with passion";
-  currentMood: "Building the future, one commit at a time";
+  philosophy: "Creating scalable, user-centric web solutions";
+  currentFocus: "Building modern, responsive web applications";
 }
 ```
 
 ### 🎯 **Mission Statement**
-> *"Transforming ideas into digital realities through innovative technology, exceptional design, and relentless pursuit of excellence."*
+> *"Crafting exceptional web experiences through clean code, innovative solutions, and cutting-edge technology."*
 
 </td>
 <td width="50%">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CrazeSliit&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&custom_title=Weekly%20Coding%20Time" alt="Wakatime Stats" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CrazeSliit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4158D0&icon_color=C850C0&text_color=FFFFFF&custom_title=GitHub%20Stats" alt="GitHub Stats" width="100%"/>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazeSliit&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazeSliit&theme=tokyonight&hide_border=true&background=0D1117&stroke=4158D0&ring=C850C0&fire=FFCC70&currStreakLabel=FFFFFF" alt="GitHub Streak" width="100%"/>
 </div>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><b>🔍 Dive Deeper Into My Journey</b> <i>(Click to expand)</i></summary>
-
-<div align="center">
-
-### 🌱 **My Evolution Timeline**
-
-```mermaid
-timeline
-    title My Development Journey
-    
-    2020 : Started Programming
-         : First Hello World in Java
-         : Fell in love with coding
-    
-    2021 : Web Development
-         : HTML, CSS, JavaScript
-         : First portfolio website
-         : React.js mastery
-    
-    2022 : Mobile Development
-         : Flutter framework
-         : Published first app
-         : Cross-platform expertise
-    
-    2023 : Full-Stack Mastery
-         : Node.js & databases
-         : Cloud deployment
-         : DevOps practices
-    
-    2024 : AI & Game Development
-         : Machine Learning
-         : Unity game engine
-         : Current focus areas
-    
-    2025 : Innovation & Leadership
-         : Open source contributions
-         : Mentoring developers
-         : Building the future
-```
-
-### 🏆 **Achievements & Milestones**
-
-| 🎯 **Category** | 🏅 **Achievement** | 📅 **Year** |
-|:---:|:---:|:---:|
-| 🎓 **Education** | Software Engineering @ SLIIT | 2022-Present |
-| 🏆 **Competition** | Hackathon Winner | 2023 |
-| 📱 **Mobile** | First App Published | 2022 |
-| 🌐 **Web** | 10+ Live Projects | 2023 |
-| ⭐ **Open Source** | 100+ GitHub Stars | 2024 |
-| 🤝 **Community** | Tech Meetup Speaker | 2024 |
-
-</div>
-
-</details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Professional Arsenal
+## 💼 Web Development Stack
 
 <div align="center">
 
-### 🎨 **What I Craft**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/web.png" alt="Web Development"/>
-<br><b>🌐 Web Applications</b>
-<br>
-<sub>React • Vue • Angular</sub><br>
-<sub>Node.js • Express • Django</sub><br>
-<sub>PostgreSQL • MongoDB</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/smartphone.png" alt="Mobile Development"/>
-<br><b>📱 Mobile Apps</b>
-<br>
-<sub>Flutter • React Native</sub><br>
-<sub>Firebase • Native APIs</sub><br>
-<sub>App Store Deployment</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/controller.png" alt="Game Development"/>
-<br><b>🎮 Games & Interactive</b>
-<br>
-<sub>Unity • Unreal Engine</sub><br>
-<sub>C# • Blueprint</sub><br>
-<sub>3D Modeling • Animation</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" alt="AI Development"/>
-<br><b>🤖 AI Solutions</b>
-<br>
-<sub>Python • TensorFlow</sub><br>
-<sub>Machine Learning</sub><br>
-<sub>Data Analysis</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🛠️ Technology Ecosystem
-
-<div align="center">
-
-### 💻 **Core Languages**
+### 🎨 **Frontend Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=js,typescript,python,java,dart,cs,cpp,go,rust,kotlin&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,vue,nuxtjs,tailwind,bootstrap&theme=dark" />
 </p>
 
-### 🎨 **Frontend Universe**
+### ⚙️ **Backend Technologies**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,svelte,angular,tailwind,bootstrap,sass,styledcomponents&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,django,flask,php,laravel,graphql,prisma&theme=dark" />
 </p>
 
-### ⚙️ **Backend Powerhouse**
+### 🗄️ **Databases & Storage**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,fastapi,nestjs,graphql,prisma,supabase&theme=dark" />
-</p>
-
-### 🗄️ **Database & Storage**
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase,planetscale&theme=dark" />
-</p>
-
-### 📱 **Mobile & Cross-Platform**
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,kotlin,swift,reactnative,ionic,tauri&theme=dark" />
-</p>
-
-### 🎮 **Game Development**
-<p>
-  <img src="https://skillicons.dev/icons?i=unity,unreal,godot,blender,threejs,webgl&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,sqlite,firebase,supabase&theme=dark" />
 </p>
 
 ### ☁️ **Cloud & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,jenkins,githubactions,vercel,netlify&theme=dark" />
-</p>
-
-### 🧠 **AI/ML & Data Science**
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,jupyter,anaconda&theme=dark" />
-</p>
-
-### 🎨 **Design & Creative**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator,aftereffects,blender&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,vercel,netlify,docker,nginx,git,github,postman&theme=dark" />
 </p>
 
 ### 🛠️ **Development Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,vim,git,github,gitlab,postman,insomnia,notion,obsidian&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,webstorm,figma,webpack,vite,npm,yarn&theme=dark" />
 </p>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 📊 Performance Analytics
+## 📊 Developer Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazeSliit&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazeSliit&theme=tokyonight" width="100%" />
 
 <table>
 <tr>
 <td width="50%">
 
-### 📈 **GitHub Statistics**
-<img src="https://github-readme-stats.vercel.app/api?username=CrazeSliit&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&text_color=FFFFFF&custom_title=Tharindu's%20GitHub%20Stats&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-
-### 🔥 **Contribution Streak**
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=CrazeSliit&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F85D7F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak"/>
+### 💻 **Language Distribution**
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazeSliit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4158D0&text_color=FFFFFF&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
 
 </td>
 <td width="50%">
 
-### 🏆 **Achievement Showcase**
-<img src="https://github-profile-trophy.vercel.app/?username=CrazeSliit&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies"/>
-
-### 💻 **Language Distribution**
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazeSliit&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=10&custom_title=Most%20Used%20Languages" alt="Top Languages"/>
+### 🏆 **GitHub Achievements**
+<img src="https://github-profile-trophy.vercel.app/?username=CrazeSliit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3" alt="GitHub Trophies"/>
 
 </td>
 </tr>
 </table>
 
-### 📊 **Contribution Activity**
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazeSliit&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" width="100%"/>
-
-### ⏰ **Weekly Development Breakdown**
-<!--START_SECTION:waka-->
-```text
-🌅 Morning               ████████░░░░░░░░░░░░░░░░░   32.5%
-🌞 Daytime               ██████████████░░░░░░░░░░░   58.2%
-🌆 Evening               ████░░░░░░░░░░░░░░░░░░░░░   16.8%
-🌙 Night                 ████████░░░░░░░░░░░░░░░░░   35.1%
-
-💻 Languages:
-JavaScript               ████████████░░░░░░░░░░░░░   48.2%
-Python                   ██████░░░░░░░░░░░░░░░░░░░   24.7%
-TypeScript               ████░░░░░░░░░░░░░░░░░░░░░   16.3%
-Dart                     ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
-C#                       ██░░░░░░░░░░░░░░░░░░░░░░░    8.9%
-
-🔧 Editors:
-VS Code                  ████████████████████████░   96.8%
-Android Studio           ██░░░░░░░░░░░░░░░░░░░░░░░    8.2%
-Unity Editor             █░░░░░░░░░░░░░░░░░░░░░░░░    5.4%
-
-💻 Operating Systems:
-macOS                    ████████████████████░░░░░   82.3%
-Linux                    ████░░░░░░░░░░░░░░░░░░░░░   17.7%
-```
-<!--END_SECTION:waka-->
+### 📈 **Contribution Activity**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CrazeSliit&bg_color=0D1117&color=4158D0&line=C850C0&point=FFFFFF&area=true&hide_border=true&custom_title=Annual%20Contribution%20Graph" alt="Contribution Graph" width="100%"/>
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎯 Current Focus & Roadmap
+## 🚀 Featured Web Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 **E-Commerce Platform**
+**Modern Full-Stack Solution**
+- React.js frontend with TypeScript
+- Node.js & Express backend
+- PostgreSQL database
+- Stripe payment integration
+- JWT authentication
+- Responsive design
+
+*Stack: React, Node.js, PostgreSQL, Tailwind*
+
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-4158D0?style=for-the-badge)](https://your-demo.com)
+[![Source Code](https://img.shields.io/badge/📝-Code-C850C0?style=for-the-badge)](https://github.com/CrazeSliit)
+
+</td>
+<td width="50%">
+
+### 📱 **Social Media Dashboard**
+**Real-Time Analytics Platform**
+- Next.js with Server-Side Rendering
+- REST & GraphQL APIs
+- MongoDB with Mongoose
+- Real-time notifications
+- Dark/Light theme toggle
+- Mobile-first design
+
+*Stack: Next.js, Express, MongoDB, Socket.io*
+
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-4158D0?style=for-the-badge)](https://your-demo.com)
+[![Source Code](https://img.shields.io/badge/📝-Code-C850C0?style=for-the-badge)](https://github.com/CrazeSliit)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏢 **Project Management System**
+**Enterprise Web Application**
+- Vue.js 3 with Composition API
+- Laravel backend with API
+- MySQL database design
+- Role-based authentication
+- File upload & management
+- Advanced search & filtering
+
+*Stack: Vue.js, Laravel, MySQL, Redis*
+
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-4158D0?style=for-the-badge)](https://your-demo.com)
+[![Source Code](https://img.shields.io/badge/📝-Code-C850C0?style=for-the-badge)](https://github.com/CrazeSliit)
+
+</td>
+<td width="50%">
+
+### 📊 **Data Visualization Portal**
+**Interactive Analytics Dashboard**
+- React with D3.js integration
+- Python Flask backend
+- Chart.js & Recharts
+- CSV/JSON data processing
+- Export functionality
+- Responsive charts
+
+*Stack: React, Flask, D3.js, Chart.js*
+
+[![Live Demo](https://img.shields.io/badge/🌐-Live%20Demo-4158D0?style=for-the-badge)](https://your-demo.com)
+[![Source Code](https://img.shields.io/badge/📝-Code-C850C0?style=for-the-badge)](https://github.com/CrazeSliit)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🎯 Current Focus & Learning
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((🚀 Tharindu's Universe))
+  root((🌐 Web Dev Focus))
     🎯 Active Projects
-      🌐 Next.js SaaS Platform
+      ⚡ Next.js SaaS Platform
         TypeScript
         Prisma ORM
         Stripe Integration
-      📱 Flutter Fitness App
-        Health Kit Integration
-        Real-time Analytics
-        Social Features
-      🎮 Unity 3D Adventure Game
-        C# Scripting
-        Procedural Generation
-        Multiplayer Support
-      🤖 AI-Powered Chatbot
-        Natural Language Processing
-        Vector Databases
-        LangChain Integration
-    
-    📚 Learning Journey
-      ☁️ Cloud Architecture
-        AWS Solutions Architect
-        Serverless Computing
-        Microservices Design
-      🧠 Advanced AI/ML
-        Deep Learning
-        Computer Vision
-        Reinforcement Learning
-      🔐 Cybersecurity
-        Ethical Hacking
-        Penetration Testing
-        Security Auditing
+        Vercel Deployment
+      📊 React Dashboard
+        Real-time Data
+        Chart.js Integration
+        Material-UI
+        REST API Consumption
+      🛒 E-commerce Site
+        Vue.js 3
+        Node.js Backend
+        MongoDB Database
+        Payment Gateway
+      
+    📚 Learning Path
+      ☁️ Cloud Technologies
+        AWS Services
+        Docker Containers
+        CI/CD Pipelines
+        Microservices
+      🚀 Performance
+        Code Splitting
+        Lazy Loading
+        Web Vitals
+        SEO Optimization
+      🔧 Advanced Concepts
+        GraphQL
+        WebSockets
+        PWA Development
+        Testing Strategies
       
     🎖️ 2025 Goals
-      🌟 Open Source Leadership
-        Maintain 3+ projects
-        1000+ GitHub stars
-        Community building
-      💼 Career Growth
+      🌟 Technical Growth
+        Master TypeScript
+        Learn Three.js
+        Explore Web3
+        Advanced Testing
+      💼 Career Development
         Senior Developer Role
         Technical Leadership
-        Conference Speaking
-      🤝 Knowledge Sharing
-        Technical Blog
-        YouTube Channel
-        Mentoring Program
+        Open Source Projects
+        Tech Community
 ```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Featured Projects Portfolio
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚀 **Project Showcase**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrazeSliit&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Featured Repo 1"/>
-</div>
-
-**🎮 Game Engine Pro**
-- Custom 2D/3D game engine
-- Cross-platform compatibility
-- Advanced physics simulation
-- Visual scripting system
-
-*Tech Stack: C++, OpenGL, SDL2, ImGui*
-
-[![Demo](https://img.shields.io/badge/🎯-Live%20Demo-success?style=for-the-badge)](https://your-demo-link.com)
-[![Code](https://img.shields.io/badge/📝-Source%20Code-blue?style=for-the-badge)](https://github.com/CrazeSliit)
-
-</td>
-<td width="50%">
-
-### 📱 **Mobile Innovation**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=CrazeSliit&repo=your-repo-name&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Featured Repo 2"/>
-</div>
-
-**📱 Social Connect App**
-- Real-time messaging
-- AR filters & effects
-- Location-based features
-- Advanced privacy controls
-
-*Tech Stack: Flutter, Firebase, Node.js, Socket.io*
-
-[![Download](https://img.shields.io/badge/📱-Download%20App-green?style=for-the-badge)](https://play.google.com/store)
-[![Code](https://img.shields.io/badge/📝-Source%20Code-blue?style=for-the-badge)](https://github.com/CrazeSliit)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 **Web Excellence**
-
-**🌐 E-Commerce Platform**
-- Microservices architecture
-- AI-powered recommendations
-- Advanced analytics dashboard
-- Multi-payment integration
-
-*Tech Stack: React, Node.js, PostgreSQL, Redis*
-
-[![Live](https://img.shields.io/badge/🌐-Live%20Site-success?style=for-the-badge)](https://your-site.com)
-[![Code](https://img.shields.io/badge/📝-Source%20Code-blue?style=for-the-badge)](https://github.com/CrazeSliit)
-
-</td>
-<td width="50%">
-
-### 🤖 **AI Innovation**
-
-**🤖 Smart Assistant**
-- Natural language processing
-- Voice recognition
-- Multi-modal interactions
-- Custom model training
-
-*Tech Stack: Python, TensorFlow, FastAPI, React*
-
-[![Demo](https://img.shields.io/badge/🎯-Live%20Demo-success?style=for-the-badge)](https://your-demo.com)
-[![Code](https://img.shields.io/badge/📝-Source%20Code-blue?style=for-the-badge)](https://github.com/CrazeSliit)
-
-</td>
-</tr>
-</table>
-
-### 📊 **Project Statistics**
-
-| 📈 **Metric** | 📊 **Count** | 🎯 **Goal** | 📅 **Timeline** |
-|:---:|:---:|:---:|:---:|
-| 🌟 **Total Stars** | 500+ | 1000+ | End 2025 |
-| 🍴 **Forks** | 100+ | 250+ | Mid 2025 |
-| 👥 **Contributors** | 25+ | 50+ | End 2025 |
-| 🚀 **Live Projects** | 15+ | 30+ | End 2025 |
 
 </div>
 
@@ -442,138 +266,87 @@ mindmap
 
 <div align="center">
 
-### 💬 **Let's Build Something Amazing Together!**
+### 💬 **Let's Build Amazing Web Applications Together!**
 
-I'm passionate about connecting with fellow developers, designers, entrepreneurs, and tech enthusiasts. Whether you're looking to collaborate on an exciting project, need mentorship, want to discuss the latest in tech, or simply share ideas over coffee ☕, I'm always up for meaningful conversations!
+I'm passionate about creating exceptional web experiences and always excited to collaborate with fellow developers, designers, and entrepreneurs. Whether you have an exciting project idea, need technical consultation, or want to discuss the latest in web development, let's connect!
 
 <p>
   <a href="https://github.com/CrazeSliit" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=black" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=4158D0" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/tharindu-chamuditha-35b85426b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=C850C0" alt="LinkedIn"/>
   </a>
   <a href="mailto:chamudithakyt21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FFCC70" alt="Email"/>
   </a>
   <a href="https://twitter.com/your-handle" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
 </p>
 
-### 💝 **Support My Journey**
+### 📊 **Web Development Stats**
 
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/64/000000/patreon.png" alt="Patreon"/>
-<br><b>🎯 Monthly Support</b>
-<br><sub>Become a patron of innovation!</sub>
-<br>
-<a href="https://patreon.com/TharinduChamuditha" target="_blank">
-<img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"/>
-</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/64/000000/coffee.png" alt="Coffee"/>
-<br><b>☕ Buy Me Coffee</b>
-<br><sub>Fuel my coding sessions!</sub>
-<br>
-<a href="https://buymeacoffee.com/tharinduc" target="_blank">
-<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-</a>
-</td>
-<td align="center" width="33%">
-<img src="https://img.icons8.com/color/64/000000/star.png" alt="Star"/>
-<br><b>⭐ Star Repositories</b>
-<br><sub>Show love for my projects!</sub>
-<br>
-<a href="https://github.com/CrazeSliit" target="_blank">
-<img src="https://img.shields.io/badge/⭐_Star_Repositories-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Star Repos"/>
-</a>
-</td>
-</tr>
-</table>
+| 🎯 **Metric** | 📊 **Current** | 🚀 **Goal 2025** |
+|:---:|:---:|:---:|
+| 🌐 **Web Projects** | 15+ | 25+ |
+| ⭐ **GitHub Stars** | 500+ | 1000+ |
+| 🔧 **Technologies** | 20+ | 30+ |
+| 👥 **Collaborations** | 10+ | 20+ |
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎭 Developer Life & Fun Facts
+## 💡 Web Development Philosophy
 
 <div align="center">
 
-### 🌟 **Behind the Code**
+### 🎨 **My Development Principles**
 
 <table>
 <tr>
 <td width="50%">
 
-#### 🎯 **My Developer DNA**
-```json
-{
-  "dailyRoutine": {
-    "morning": "☕ Coffee + 📰 Tech News",
-    "coding": "🎵 Lo-fi music + 🔥 Focus mode",
-    "debugging": "🤔 Rubber duck + 🍕 Pizza",
-    "evening": "📚 Learning + 🎮 Gaming"
-  },
-  "codeStyle": {
-    "theme": "🌙 Always dark mode",
-    "font": "Fira Code with ligatures",
-    "indentation": "2 spaces (fight me!)",
-    "semicolons": "Always (JavaScript peace)"
-  },
-  "workEnvironment": {
-    "setup": "MacBook + 27\" 4K monitor",
-    "keyboard": "Mechanical with blue switches",
-    "mouse": "Gaming mouse for precision",
-    "lighting": "RGB everything 🌈"
-  }
-}
-```
+#### 🌟 **Code Quality**
+- Clean, readable, and maintainable code
+- Consistent naming conventions
+- Comprehensive documentation
+- Test-driven development approach
+- Performance-first mindset
+
+#### 🎯 **User Experience**
+- Mobile-first responsive design
+- Accessibility standards (WCAG)
+- Fast loading times
+- Intuitive user interfaces
+- Cross-browser compatibility
 
 </td>
 <td width="50%">
 
-#### 🎮 **Quirky Developer Facts**
-- 🚀 I name my variables after space missions
-- 🎯 I can debug code in my dreams (literally!)
-- ☕ Consumed 2,847 cups of coffee this year
-- 🎵 I have a 47-hour coding playlist
-- 🐛 I've written more bugs than features (we don't talk about this)
-- 🎮 I test games "for research purposes"
-- 📱 I have 23 mobile apps on my phone that I built
-- 🌙 Most productive coding time: 11 PM - 3 AM
-- 🍕 Pizza is a valid programming tool
-- 🎲 I make decisions using random.choice()
+#### 🚀 **Development Process**
+- Agile methodology adoption
+- Version control best practices
+- Code reviews and collaboration
+- Continuous integration/deployment
+- Regular refactoring and optimization
 
-#### 🏆 **Achievements Unlocked**
-- ✅ Survived a 48-hour hackathon
-- ✅ Fixed a bug that took 3 days to find
-- ✅ Got featured on GitHub trending
-- ✅ Mentored 15+ junior developers
-- ✅ Spoke at a tech conference
-- ✅ Built an app with 10K+ downloads
+#### 🔧 **Technology Choices**
+- Right tool for the right job
+- Modern frameworks and libraries
+- Scalable architecture patterns
+- Security-first development
+- Future-proof solutions
 
 </td>
 </tr>
 </table>
 
-### 🎨 **My Coding Philosophy**
-
+### 💭 **Developer Wisdom**
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=24&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=%22Code+is+poetry+written+in+logic%22;%22Every+bug+is+a+learning+opportunity%22;%22Clean+code+is+a+love+letter+to+your+future+self%22;%22Innovation+distinguishes+leaders+from+followers%22" alt="Philosophy"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=20&duration=3000&pause=1000&color=4158D0&center=true&vCenter=true&width=700&lines=%22Code+is+read+more+often+than+it's+written%22;%22Good+code+is+its+own+best+documentation%22;%22Premature+optimization+is+the+root+of+all+evil%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast%22" alt="Developer Quotes"/>
 </div>
-
-### 💭 **Quote of the Day**
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-### 🎯 **Daily Motivation**
-<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=18&duration=4000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Today's+challenge+is+tomorrow's+skill;Every+expert+was+once+a+beginner;Code+with+passion%2C+debug+with+patience;Innovation+starts+with+curiosity;Build+something+amazing+today!" alt="Motivation"/>
 
 </div>
 
@@ -583,6 +356,8 @@ I'm passionate about connecting with fellow developers, designers, entrepreneurs
 
 ### 🎉 **Thanks for Visiting!**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:4ECDC4,50:45B7D1,75:96CEB4,100:FECA57&height=100&section=footer&text=Keep%20Coding%20%26%20Stay%20Awesome!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=16&duration=4000&pause=1000&color=C850C0&center=true&vCenter=true&width=600&lines=Building+the+web%2C+one+component+at+a+time;Always+learning%2C+always+growing;Let's+create+something+amazing+together!" alt="Closing Message"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4158D0,25:C850C0,50:FFCC70,75:4158D0,100:C850C0&height=100&section=footer&text=Happy%20Coding!&fontSize=20&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
